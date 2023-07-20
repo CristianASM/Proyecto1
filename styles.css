@@ -199,10 +199,17 @@ footer li{
     background-color: rgba(119, 24, 148, 0.74);
     width: 250px;
 }
-@media (max-width: 280px){
+@media (max-width: 767px){
     .color-h-actividades{
         width: auto;
+        text-align: center;
     }
+    .c-a{
+        text-align: center;
+    }
+}
+.img-actividad-1{
+    width: 290px;
 }
 /*Clases para page Inscripciones*/
 .img-inscripciones{
@@ -264,5 +271,6 @@ section li{
         font-size: 17px;
     }
 }
+
 
 
