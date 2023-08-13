@@ -32,7 +32,7 @@
 }
 @keyframes slidein {
     0% {
-        transform: translateX(-50%);
+        transform: translateX(-51%);
     }
 
     100% {
